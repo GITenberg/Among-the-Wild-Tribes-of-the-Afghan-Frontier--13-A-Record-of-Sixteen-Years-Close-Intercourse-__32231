@@ -1,0 +1,36 @@
+_repo: Among-the-Wild-Tribes-of-the-Afghan-Frontier--13-A-Record-of-Sixteen-Years-Close-Intercourse-__32231
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32231-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pennell, T. L. (Theodore Leighton)
+    alias: Pennell, Theodore Leighton
+    birthdate: 1867
+    deathdate: 1912
+    gutenberg_agent_id: '25344'
+    url: http://www.gutenberg.org/2009/agents/25344
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Leighton_Pennell
+description: ''
+gutenberg_issued: '2010-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- Asia, Central'
+- !lcsh 'Khyber Pakhtunkhwa (Pakistan) -- Social life and customs'
+- !lcsh 'Pushtuns'
+- !lcsh 'Pennell, T. L. (Theodore Leighton), 1867-1912'
+- !lcsh 'Missions, Medical -- Pakistan -- North-West Frontier Province'
+- !lcsh 'Afghans'
+- !lcsh 'Punjab (India) -- Social life and customs'
+- !lcsh 'Afghanistan -- Social life and customs'
+- !lcc 'DS'
+title: "Among the Wild Tribes of the Afghan Frontier\r\nA Record of Sixteen Years'\
+  \ Close Intercourse with the Natives of the Indian Marches"
+url: http://www.gutenberg.org/ebooks/32231
